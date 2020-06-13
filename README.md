@@ -2,7 +2,7 @@
 
 Stats 170B Final Project
 
-170B_Final_project.ipynb, you can run this file to get a general understanding of the data and the prediction results of the final models.
+170B_Final_project.ipynb, you can simply run this file to get a general understanding of the data and the prediction results of the final models.
 
 brca_metabric_clinical_data.tsv, this is the data for METABRIC data. This dataset contains around 2513 rows(patients) and 21 attributes. In contains a very well-described description of each patients. 
 
